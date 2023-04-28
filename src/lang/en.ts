@@ -149,5 +149,4 @@ const en = {
     process_take_few_second: "This process may take a few seconds, please do not close this page.",
   }
 };
-
 export default en;
